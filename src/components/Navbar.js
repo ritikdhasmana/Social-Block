@@ -6,18 +6,14 @@ class Navbar extends Component{
     render(){
         return (
             <nav className="navbar navbar-dark p-1 mb-1 bg-dark text-white fixed-top flex-md-nowrap shadow" >
-        <a
-          className="navbar-brand col-sm-3 col-md-2 mr-0"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a class="navbar-brand" href="#">
           <img
-        src="./fave.ico"
+        src={require("D:/code/solidity/app1/social-block/src/components/fave.png")} 
         width="30"
         height="30"
-        className="d-inline-block align-top"
+        className="d-inline-block align-top ml-2"
         alt=""
-      />{'  '}
+      />{'   '}
           Social Block
         </a>
         <ul className="navbar-nav px-3 mt-auto">
