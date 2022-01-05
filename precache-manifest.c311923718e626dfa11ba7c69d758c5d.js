@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "266ac8b2603872595e74",
+    "revision": "dd3291d9bcd4b3708f02",
     "url": "/Social-Block/static/css/main.f2056d26.chunk.css"
   },
   {
-    "revision": "266ac8b2603872595e74",
-    "url": "/Social-Block/static/js/main.266ac8b2.chunk.js"
+    "revision": "dd3291d9bcd4b3708f02",
+    "url": "/Social-Block/static/js/main.dd3291d9.chunk.js"
   },
   {
     "revision": "739975efc4611762b881",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Social-Block/static/js/runtime~main.17b88e62.js"
   },
   {
-    "revision": "1c0bcef921b75615c8fdc89daf2d212c",
+    "revision": "50fc581bad8d23fc09a9180370de216a",
     "url": "/Social-Block/index.html"
   }
 ];

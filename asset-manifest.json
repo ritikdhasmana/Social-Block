@@ -1,7 +1,7 @@
 {
   "main.css": "/Social-Block/static/css/main.f2056d26.chunk.css",
-  "main.js": "/Social-Block/static/js/main.266ac8b2.chunk.js",
-  "main.js.map": "/Social-Block/static/js/main.266ac8b2.chunk.js.map",
+  "main.js": "/Social-Block/static/js/main.dd3291d9.chunk.js",
+  "main.js.map": "/Social-Block/static/js/main.dd3291d9.chunk.js.map",
   "static/css/1.b497f40f.chunk.css": "/Social-Block/static/css/1.b497f40f.chunk.css",
   "static/js/1.739975ef.chunk.js": "/Social-Block/static/js/1.739975ef.chunk.js",
   "static/js/1.739975ef.chunk.js.map": "/Social-Block/static/js/1.739975ef.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/main.f2056d26.chunk.css.map": "/Social-Block/static/css/main.f2056d26.chunk.css.map",
   "static/css/1.b497f40f.chunk.css.map": "/Social-Block/static/css/1.b497f40f.chunk.css.map",
   "index.html": "/Social-Block/index.html",
-  "precache-manifest.0f0c059300ade9359324f53254d2a653.js": "/Social-Block/precache-manifest.0f0c059300ade9359324f53254d2a653.js",
+  "precache-manifest.c311923718e626dfa11ba7c69d758c5d.js": "/Social-Block/precache-manifest.c311923718e626dfa11ba7c69d758c5d.js",
   "service-worker.js": "/Social-Block/service-worker.js"
 }
