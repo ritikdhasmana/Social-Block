@@ -21,7 +21,7 @@ class Main extends Component{
                     <div className="form-group">
                       <label className="control-label col-sm-2" >What's up?</label>
                       <div className="col-sm-10">
-                        <input type="text"
+                        <textarea type="text"
                         ref = {(input)=>{this.postContent =input}}
                         className="form-control" id="postContent" placeholder="Enter here" required/>
                       </div>
